@@ -27,7 +27,7 @@ name = "Home"
 url = "/home"
 weight = 1
 
-[[menu.main]]
+#[[menu.main]]
 #name = "Blog"
 #url = "/posts"
 #weight = 2
