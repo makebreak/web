@@ -4,19 +4,22 @@ date: 2019-11-30
 type: "page"
 ---
 
-Welcome to my website.  You must be here to learn about my candidacy for your PhD program.  Or perhaps you stumbled here from another digital journey. 
+Welcome to my website!  
+
 
 Some Links of Interest:
 
 IPV Research Project\
-https://www.ipvtechresearch.org/
+https://www.ipvtechresearch.org \
+This is my current research group.
 
 Translation Code\
-https://github.com/makebreak/translateStuff/blob/master/translateSelection.py
+https://github.com/makebreak/translateStuff/blob/master/translateSelection.py \
+This is a little program I wrote for translating databases using Google's Translation API.
 
 Camera Code \
-https://github.com/makebreak/picameracode
-
+https://github.com/makebreak/picameracode \
+This is a program to sync a piCamera, Raspberry Pi, and a Particle Photon and store a recorded video on Google Drive. 
 
 
 
