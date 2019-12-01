@@ -15,7 +15,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
 	subtitle = "Personal Webpage Limited Edition for Phd Admissions Committee"#[blog theme for Hugo](https://github.com/vividvilla/ezhil)"
-	disableDisqusTypes = ["page","post"]
+	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
 	mode = "auto" # "dark", "auto", "light"
 	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
