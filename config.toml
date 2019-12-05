@@ -24,7 +24,7 @@ pygmentscodefencesguesssyntax = true
 
 [[menu.main]]
 name = "Home"
-url = "/home"
+url = "/"
 weight = 1
 
 #[[menu.main]]
