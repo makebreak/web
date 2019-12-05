@@ -5,6 +5,13 @@
 	<div class="container wrapper">
 		{{ partial "head.html" . }}
 
+		<div class="content">
+		  {{ range where .Data.Pages "Title" "Home" }}
+                  <div class="markdown">
+                    {{ .Content }}
+                  </div>
+		  {{ end }}
+		</div>
 		<div class="recent-posts section">
 			<h2 class="section-header">
 				<!--This is the index page <!--Recent posts

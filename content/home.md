@@ -1,8 +1,6 @@
----
-
-date: 2019-11-30
-type: "page"
----
++++
+title ="Home"
++++
 
 Welcome to my website!  
 
